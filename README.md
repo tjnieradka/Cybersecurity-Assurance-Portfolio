@@ -90,7 +90,7 @@ This repository is designed to demonstrate practical, hands-on skills in:
 
 These competencies directly support roles in:
 
-- Cyber Integration Assurance (TELUS)  
+- Cyber Integration Assurance 
 - GRC / Governance Risk Compliance  
 - Cybersecurity Risk & Controls  
 - IT Audit  
@@ -108,7 +108,7 @@ These competencies directly support roles in:
 - **Microsoft Sentinel Lab (in progress)**  
   [Link to be added when public]
 
-- **PowerShell Automation & Identity Tools**  
+- **PowerShell Playbook (in progress)**  
   [Link to be added when public]
 
 These technical repos complement the assurance-focused documents found here.
