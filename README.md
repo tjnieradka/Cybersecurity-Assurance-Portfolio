@@ -158,17 +158,27 @@ These documents draw upon concepts from widely recognized cybersecurity standard
 
 ## Future Additions
 
-Planned documents and enhancements to this portfolio may include:
+Planned documents and enhancements to this portfolio may include the following scoped or limited additions:
 
-- Vendor/SaaS security due diligence questionnaire (aligned to CSA/ISO/NIST)  
-- NIST CSF or ISO 27001 control mapping exercises  
-- Cloud security configuration reviews (AWS/Azure)  
-- Business Impact Analysis (BIA) outline  
-- Tabletop exercise: incident walkthrough + lessons learned  
-- Security baseline checklist for identity, network, or endpoint systems  
+- **Vendor/SaaS security due diligence questionnaire (focused version):**  
+  A concise set of 20–30 key security questions aligned with CSA/NIST/ISO best practices.
 
-These future additions will be created independently (outside the UBC course)  
-and will continue to build the practical depth of the portfolio.
+- **NIST CSF or ISO 27001 control mapping (limited scope):**  
+  A small-scale mapping of one or two NIST CSF functions or selected ISO 27001 Annex A controls applicable to the fictional organization.
+
+- **Cloud security configuration reviews (high-level AWS/Azure baseline):**  
+  A brief review of foundational cloud security controls (IAM/MFA, encryption, logging) based on a minimal configuration from a personal cloud lab.
+
+- **Business Impact Analysis (BIA) outline:**  
+  A lightweight BIA summary covering a few critical business processes, impact categories, and RTO/RPO values.
+
+- **Tabletop exercise: single incident walkthrough + lessons learned:**  
+  A short tabletop summary of one hypothetical incident (e.g., ransomware), decision points, communications, and lessons learned.
+
+- **Security baseline checklist for identity, network, or endpoint systems (minimal baseline):**  
+  A simplified checklist referencing CIS Benchmarks or Microsoft security baselines, tailored to the fictional organization.
+
+These future additions will be created independently (outside the UBC course) and will continue to build the practical depth of this portfolio while maintaining a realistic level of effort.
 
 ---
 
