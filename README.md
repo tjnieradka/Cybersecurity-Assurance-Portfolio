@@ -17,13 +17,13 @@ and alignment with industry-standard frameworks (NIST, CIS Controls, CyberSecure
 A comprehensive cybersecurity risk management plan for a fictional organization (“Magical Unicorns Health”).  
 This document includes:
 
-- Threat identification and assessment  
-- Likelihood/impact scoring  
-- Risk register and mitigation strategies  
-- CIS Controls mapping  
-- Risk governance structure  
-- Treatment methodologies (avoid, reduce, transfer, accept)  
-- Communication and review cycles  
+- Threat identification and assessment 
+- Likelihood/impact scoring
+- Risk register and mitigation strategies
+- CIS Controls–based risk identification (not full control mapping)
+- Risk governance structure
+- Treatment methodologies (avoid, reduce, transfer, accept)
+- Communication and review cycles
 
 The overarching methodology is based on industry frameworks (NIST CSF, CIS Controls) and course concepts.
 
@@ -32,30 +32,33 @@ The overarching methodology is based on industry frameworks (NIST CSF, CIS Contr
 ### **2. Incident Response Plan (PDF)**
 An incident response plan derived from the **CyberSecure Canada** publicly available template and expanded with:
 
-- NIST SP 800-61 Incident Handling Lifecycle  
-- IR team structure and responsibilities (CSIRT)  
-- Incident severity matrix  
-- Detailed response process (PICERL)  
-- Playbooks for ransomware, data breach, service interruption, new account fraud, and equipment loss  
-- Communications guidelines and lessons learned procedures  
+- Alignment to **NIST SP 800-61** (PICERL) Incident Handling Lifecycle  
+  - **PICERL** stands for *Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned* — the incident handling lifecycle defined by NIST SP 800-61.
+- Clearly defined **CSIRT structure**, roles, and responsibilities
+  - **CSIRT** refers to the *Computer Security Incident Response Team*, the group responsible for coordinating and managing the technical and organizational response to security incidents.
+- Incident severity matrix and categorization  
+- Detailed response process following the preparation, identification, containment, eradication, recovery, and lessons-learned phases  
+- **Additional handling guidance** for common incident types, including ransomware, data breach, service interruption, new account fraud, and equipment loss  
+- Communications roles, authority, and lessons-learned procedures  
+
 
 The plan demonstrates my ability to formalize and document incident response processes in a structured,  
 audit-friendly, and operationally realistic format.
 
 ---
 
-### **3. Risk Register (Excel) — Optional**
+### **3. Risk Register (PDF)**
 An example of a structured risk register used to support the Risk Management Plan:
 
 - Inherent and residual risk scoring  
-- Likelihood/impact matrices  
-- Control mapping  
+- Likelihood/impact assessments  
+- Mitigation strategies with recommended controls and tools  
 - Risk owners and treatment status  
-- Treatment strategy  
-- Reference IDs for traceability  
+- Treatment strategy and deliverable timelines  
+- Organized entries for traceability across the risk management process  
 
 This file is included to show alignment with GRC/assurance best practices in evidence collection,  
-risk tracking, and reporting.
+risk tracking, and reporting. 
 
 ---
 
@@ -66,13 +69,18 @@ The organization, names, roles, and scenario descriptions in these documents are
 solely for educational and professional demonstration purposes.
 
 **Attribution**  
-The Incident Response Plan was developed using the publicly available  
-**CyberSecure Canada Incident Response Plan template** as a foundation.  
-The Risk Management Plan follows concepts taught in the UBC Cybersecurity Risk Management course and  
-includes my independent analysis, research, and enhancements.
+The Incident Response Plan in this repository was developed using the publicly available 
+**CyberSecure Canada Incident Response Plan template** and the accompanying **completed example 
+Incident Response Plan** as reference materials. All organization names, roles, scenarios, and 
+business details have been replaced with a fictional organization (Magical Unicorns Health). 
+Additional sections, refinements, and edits were added based on my own research and understanding 
+of incident response practices and the PICERL lifecycle.
 
-All added content, controls analysis, and documentation reflect my understanding of cybersecurity  
-risk management, assurance practices, and incident response frameworks.
+The Risk Management Plan was originally created as part of the **UBC Extended Learning – 
+Cybersecurity Risk Management** course and includes my independent analysis, research, and 
+enhancements. It has been minimally edited for clarity and formatting for inclusion in this 
+portfolio.
+
 
 ---
 
