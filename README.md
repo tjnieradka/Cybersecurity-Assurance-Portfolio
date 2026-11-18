@@ -190,9 +190,3 @@ These future additions will be created independently (outside the UBC course) an
 
 ---
 
-## About Me
-
-I am an IT professional with extensive experience supporting enterprise environments, specializing in systems administration, Windows Server/Active Directory, virtualization, identity management, and secure infrastructure operations. I hold the CISSP and AWS Cloud Practitioner certifications and continue expanding  my skills in cloud identity, Microsoft 365, cybersecurity assurance, and security governance through professional training and independent technical projects. 
-
-My GitHub portfolio includes hands-on infrastructure labs, networking and troubleshooting exercises, and cybersecurity risk management and incident response documentation. These projects complement my professional 
-experience and demonstrate my continued technical development across systems administration, IT operations, and cybersecurity.
