@@ -13,7 +13,7 @@ and alignment with industry-standard frameworks (NIST, CIS Controls, CyberSecure
 
 ## Included Documents
 
-### **1. Risk Management Plan (PDF)**
+### 1. [Risk Management Plan (PDF)](docs/Risk_Management_Plan__Magical%20Unicorns%20Health_v1.3.pdf)
 A comprehensive cybersecurity risk management plan for a fictional organization (“Magical Unicorns Health”).  
 This document includes:
 
@@ -29,7 +29,7 @@ The overarching methodology is based on industry frameworks (NIST CSF, CIS Contr
 
 ---
 
-### **2. Incident Response Plan (PDF)**
+### 2. [Incident Response Plan (PDF)](docs/Incident-Response-Plan-Magical-Unicorns-Health.pdf)
 An incident response plan derived from the **CyberSecure Canada** publicly available template and expanded with:
 
 - Alignment to **NIST SP 800-61** (PICERL) Incident Handling Lifecycle  
@@ -47,7 +47,7 @@ audit-friendly, and operationally realistic format.
 
 ---
 
-### **3. Risk Register (PDF)**
+### 3. [Risk Register (PDF)](docs/Risk_Register_v1.1.pdf)
 An example of a structured risk register used to support the Risk Management Plan:
 
 - Inherent and residual risk scoring  
