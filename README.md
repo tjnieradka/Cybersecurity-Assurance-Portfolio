@@ -1,17 +1,24 @@
 # Cybersecurity Assurance Portfolio
 
-This repository showcases my work in cybersecurity governance, risk management, and incident response.  
-It includes documents created as part of the **UBC Extended Learning – Cybersecurity Risk Management** course,  
-along with additional materials I am developing independently to strengthen my skills in cyber assurance,  
-security controls, and risk-based decision-making.
 
-The goal of this portfolio is to demonstrate practical competencies relevant to cybersecurity assurance roles,  
-including security controls evaluation, risk analysis, incident response planning, governance documentation,  
-and alignment with industry-standard frameworks (NIST, CIS Controls, CyberSecure Canada, ISO principles).
+## 1. Overview
+
+This repository contains cybersecurity governance, risk management, and incident response documentation developed through the **UBC Extended Learning – Cybersecurity Risk Management** course and subsequent independent research and enhancements.
+
+The portfolio demonstrates practical application of cybersecurity assurance concepts, including:
+
+- Cybersecurity risk identification, assessment, and treatment
+- Security governance and risk management
+- Security controls evaluation
+- Incident response planning and documentation
+- Risk registers, mitigation strategies, and reporting
+- Application of recognized cybersecurity frameworks, including NIST CSF, CIS Controls, and CyberSecure Canada
+
+The documents are based on a fictional organization and are intended for educational and professional portfolio demonstration purposes.
 
 ---
 
-## Included Documents
+## 2. Included Documents
 
 ### 1. [Risk Management Plan (PDF)](docs/Risk_Management_Plan__Magical%20Unicorns%20Health_v1.3.pdf)
 A comprehensive cybersecurity risk management plan for a fictional organization (“Magical Unicorns Health”).  
@@ -62,131 +69,52 @@ risk tracking, and reporting.
 
 ---
 
-## Disclaimer and Attribution
+## 3. Course Context and Attribution
 
-**Disclaimer**  
-The organization, names, roles, and scenario descriptions in these documents are **fictional** and created  
-solely for educational and professional demonstration purposes.
+### Course Context
 
-**Attribution**  
-The Incident Response Plan in this repository was developed using the publicly available 
-**CyberSecure Canada Incident Response Plan template** and the accompanying **completed example 
-Incident Response Plan** as reference materials. All organization names, roles, scenarios, and 
-business details have been replaced with a fictional organization (Magical Unicorns Health). 
-Additional sections, refinements, and edits were added based on my own research and understanding 
-of incident response practices and the PICERL lifecycle.
+The Risk Management Plan was originally developed as part of the **UBC Extended Learning – Cybersecurity Risk Management** course.
 
-The Risk Management Plan was originally created as part of the **UBC Extended Learning – 
-Cybersecurity Risk Management** course and includes my independent analysis, research, and 
-enhancements. It has been minimally edited for clarity and formatting for inclusion in this 
-portfolio.
+The project involved applying cybersecurity risk management principles to a fictional organization, including threat identification, risk assessment, mitigation planning, and governance documentation.
 
+The published document includes independent analysis, research, and enhancements, with minor editing for clarity and presentation.
 
----
+### Independent Work and Attribution
 
-## Purpose of This Portfolio
+The Incident Response Plan was developed using the publicly available **CyberSecure Canada Incident Response Plan template** and its completed example as reference materials.
 
-This repository is designed to demonstrate practical, hands-on skills in:
+The plan was adapted for the fictional organization, Magical Unicorns Health, with additional sections, refinements, and incident-handling guidance developed through independent research and application of incident response concepts.
 
-- Cybersecurity assurance  
-- Risk management and governance  
-- Control evaluation and evidence-based assessment  
-- Incident response process design  
-- Application of NIST, CIS Controls, and other frameworks  
-- Structured documentation and reporting  
-- Cloud and identity security concepts (complementing my other GitHub labs)
+The Risk Register supports the Risk Management Plan by documenting risk assessments, mitigation strategies, ownership, and treatment status.
 
-These competencies directly support roles in:
+### Disclaimer
 
-- Cyber Integration Assurance 
-- GRC / Governance Risk Compliance  
-- Cybersecurity Risk & Controls  
-- IT Audit  
-- Cloud & Identity Governance  
-- Security Policy Development  
-- Security Assurance and Architecture Support  
+Magical Unicorns Health is a fictional organization. All organization names, roles, and scenarios are presented for educational and professional demonstration purposes.
+
+These documents are not intended to represent an actual organization's security program or production-ready cybersecurity policies.
 
 ---
 
-## Related Portfolio Repositories
+## 4. Related Repositories
 
-- **Hybrid Identity Lab (AD–Entra ID)**  
-  https://github.com/tjnieradka
-
-- **Microsoft Sentinel Lab (in progress)**  
-  [Link to be added when public]
-
-- **PowerShell Playbook (in progress)**  
-  [Link to be added when public]
-
-These technical repos complement the assurance-focused documents found here.
+- [AD–Entra Hybrid Identity Lab](https://github.com/tjnieradka/AD-Entra-Lab) — Hands-on Active Directory, Microsoft Entra ID, hybrid identity, and infrastructure configuration.
+- [Network Troubleshooting Foundations](https://github.com/tjnieradka/Network-Troubleshooting-Foundations) — Windows and Linux networking diagnostics, packet analysis, and troubleshooting methodologies.
 
 ---
 
-## References & Frameworks
+## 5. References and Learning Resources
 
-These documents draw upon concepts from widely recognized cybersecurity standards and resources:
+### Standards and Frameworks
 
-### **Standards & Frameworks**
+- [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework)
+- [NIST SP 800-61 — Incident Response](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
+- [CIS Critical Security Controls](https://www.cisecurity.org/controls)
+- [ISO/IEC 27001 — Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
 
-- **NIST SP 800-61 – Computer Security Incident Handling Guide (Revision 3, 2023):**  
-  https://csrc.nist.gov/pubs/sp/800/61/r3/final
+### Canadian Cybersecurity Resources
 
-- **NIST SP 800-61 – Previous Revision (Revision 2, 2012):**  
-  https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final  
-  *(Referenced in some historical templates and coursework.)*
+- [CyberSecure Canada](https://ised-isde.canada.ca/site/cybersecure-canada/en)
+- [CyberSecure Canada — Incident Response Plan Template and Example](https://ised-isde.canada.ca/site/cybersecure-canada/en/certification-tools/develop-incident-response-plan-fillable-template-and-example)
+- [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en/guidance)
 
-- **NIST Cybersecurity Framework (NIST CSF):**  
-  https://www.nist.gov/cyberframework
-
-- **CIS Critical Security Controls:**  
-  https://www.cisecurity.org/controls
-
-- **ISO/IEC 27001 Information Security Management:**  
-  https://www.iso.org/isoiec-27001-information-security.html
-
-- **CyberSecure Canada – Program Overview:**  
-  https://ised-isde.canada.ca/site/cybersecure-canada/en
-
-- **CyberSecure Canada – Incident Response Plan Template (fillable + example):**  
-  https://ised-isde.canada.ca/site/cybersecure-canada/en/certification-tools/develop-incident-response-plan-fillable-template-and-example
-
-- **General Cybersecurity Guidance (Canadian Centre for Cyber Security):**  
-  https://www.cyber.gc.ca/en/guidance
-
-### **Security Community Resources**
-
-- **MITRE ATT&CK Framework:**  
-  https://attack.mitre.org/
-
-- **OWASP Top 10:**  
-  https://owasp.org/www-project-top-ten/
-
----
-
-## Future Additions
-
-Planned documents and enhancements to this portfolio may include the following scoped or limited additions:
-
-- **Vendor/SaaS security due diligence questionnaire (focused version):**  
-  A concise set of 20–30 key security questions aligned with CSA/NIST/ISO best practices.
-
-- **NIST CSF or ISO 27001 control mapping (limited scope):**  
-  A small-scale mapping of one or two NIST CSF functions or selected ISO 27001 Annex A controls applicable to the fictional organization.
-
-- **Cloud security configuration reviews (high-level AWS/Azure baseline):**  
-  A brief review of foundational cloud security controls (IAM/MFA, encryption, logging) based on a minimal configuration from a personal cloud lab.
-
-- **Business Impact Analysis (BIA) outline:**  
-  A lightweight BIA summary covering a few critical business processes, impact categories, and RTO/RPO values.
-
-- **Tabletop exercise: single incident walkthrough + lessons learned:**  
-  A short tabletop summary of one hypothetical incident (e.g., ransomware), decision points, communications, and lessons learned.
-
-- **Security baseline checklist for identity, network, or endpoint systems (minimal baseline):**  
-  A simplified checklist referencing CIS Benchmarks or Microsoft security baselines, tailored to the fictional organization.
-
-These future additions will be created independently (outside the UBC course) and will continue to build the practical depth of this portfolio while maintaining a realistic level of effort.
-
----
 
